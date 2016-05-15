@@ -1,3 +1,2 @@
 # SOI
-Operating system. Producer–consumer problem
-For linux.
+Operating system. Producer–consumer problem for linux.
